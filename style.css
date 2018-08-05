@@ -1,0 +1,91 @@
+.html{
+    font-family:sHelvetica Neue;    height: 100%;
+}
+.body{
+    height:100%;
+}
+
+
+
+h1{
+    color:black;
+    font-size:24px
+    ;line-height:.8
+}
+h2{
+    color:black;
+    font-size:22px;
+    line-height:22px;
+
+}
+.bg{
+  
+  background-color: rgb(29, 161, 242);
+
+
+
+}
+img{
+    width: 100px;    
+    }
+.left{
+    
+   
+    height: 100vh;
+    padding-top: 210px; 
+    color:white;
+    background-color:rgb(29, 161, 242);
+
+}
+.prag{
+    padding-left: 75px;
+    margin: 10px;
+    font-family: Tahoma,Arial,sans-serif;
+    font-size: 20px;
+    margin-left: 16px;
+    font-weight: bold;
+}
+.rightsection{
+    margin: 20px;
+    padding-top: 90px;
+    padding-left: 100px;
+    width: max-content;
+
+}
+.button1{
+    width: 60px;
+    border-radius: 12px;
+    background-color: white;
+    border-color:rgb(29, 161, 242);
+    margin-left: 100px;
+}
+.button2{
+    border-radius: 12px;
+    background-color: rgb(29, 161, 242);
+    border-color:rgb(29, 161, 242);
+    color: white;
+    width:350px;
+}
+.button3{
+    border-radius: 12px;
+    background-color: white;
+    border-color:rgb(29, 161, 242);
+    width:350px;
+}
+.acolor{
+    color: white;
+}
+.sr-only{
+  margin-top: 10px;
+}
+
+.top1{
+    margin-top: 10px;
+    padding-top: 49px;
+    padding-left: 39px;
+
+}
+.loginbtn{
+    margin-top: 20px;
+    margin-left: -90px;
+}
